@@ -26,7 +26,7 @@ I specialize in automating manual workflows, building robust CI/CD pipelines, an
 
 ### 📫 Let's Connect!
 
-* **LinkedIn:** [Add your LinkedIn URL here]
+* **LinkedIn:** https://www.linkedin.com/in/subash-devops/
 * **Email:** subashsakthi91@gmail.com
 * **Portfolio/Resume:** Available upon request.
 
