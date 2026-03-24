@@ -2,7 +2,7 @@
 
 ### ☁️ DevOps Engineer | AWS Certified | Python Automation
 
-I am a Computer Science graduate (B.E.) and an AWS Certified Cloud Practitioner transitioning into cloud infrastructure and DevOps. After dedicating time to rigorous analytical preparation for the UPSC Civil Services, I am bringing my focus, resilience, and problem-solving skills back to core tech. 
+I am a Computer Science graduate (B.E.) and an AWS Certified Cloud Practitioner transitioning into cloud infrastructure and DevOps. After dedicating My time to Freelance Digital Consultant & DevOps Practitioner, I am bringing my focus, resilience, and problem-solving skills back to core tech. 
 
 I specialize in automating manual workflows, building robust CI/CD pipelines, and provisioning scalable infrastructure. 
 
